@@ -15,11 +15,10 @@ Application web Streamlit qui analyse un CV (PDF) par rapport à une offre d’e
 
 ## Démo
 
-- `./assets/image1.png`
-- `./assets/image2.png`
-- `./assets/image3.png`
-- `./assets/image4.png`
-- `./assets/image5.png`
+<img src="https://github.com/mamadouwhile/AI-Resume-Analyzer/tree/main/assets/image1" alt="screenshot" />
+<img src="https://github.com/mamadouwhile/AI-Resume-Analyzer/tree/main/assets/image2" alt="screenshot" />
+<img src="https://github.com/mamadouwhile/AI-Resume-Analyzer/tree/main/assets/image3" alt="screenshot" />
+<img src="https://github.com/mamadouwhile/AI-Resume-Analyzer/tree/main/assets/image4" alt="screenshot" />
 
 
 ## Stack
