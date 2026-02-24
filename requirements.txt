@@ -1,0 +1,10 @@
+
+streamlit
+pdfminer.six
+sentence-transformers
+scikit-learn
+groq
+python-dotenv
+matplotlib
+numpy
+reportlab
