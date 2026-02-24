@@ -15,7 +15,6 @@ Application web Streamlit qui analyse un CV (PDF) par rapport à une offre d’e
 
 ## Démo
 
-Ajoute ici un GIF/une capture d’écran :
 - `./assets/image1.png`
 - `./assets/image2.png`
 - `./assets/image3.png`
